@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: App-ErrorCalculator
-version: 1.00
+version: 1.01
 author:
   - Steffen Mueller <modules at steffen-mueller dot net>
 abstract: Calculations with Gaussian Error Propagation
