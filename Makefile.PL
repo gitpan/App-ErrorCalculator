@@ -11,6 +11,7 @@ WriteMakefile
                            'Math::SymbolicX::Error' => '0',
                            'Math::SymbolicX::NoSimplification' => '0',
                            'Number::WithError' => '0.03',
+                           'Spreadsheet::Read' => '0',
                            'Test::More' => '0'
                          },
           'INSTALLDIRS' => 'site',
